@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeeJaysonLab3</string>
+    <string name="sheridanDescription">Top down picture of Sheridan Beach Resort</string>
+    <string name="sheridan">Sheridan Beach Resort</string>
+    <string name="loc">Location:</string>
+    <string name="address">Sabang Beach, Cabayugan, Puerto Princesa, Palawan</string>
+    <string name="distanceValue">809 km</string>
+    <string name="distance">Distance from UST:</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
